@@ -48,12 +48,23 @@ nav ul li {
 
 p {
 	font-family: 'Titan One', cursive;
+	margin-left: 4px;
 }
 
 h1 {
 	font-family: 'Titan One', cursive;
+	margin-left: 4px;
 }
 
 h2 {
 	font-family: 'Titan One', cursive;
+	margin-left: 4px;
+}
+
+article {
+	padding: 3px;
+}
+
+#pic {
+	width: 50vw;
 }
