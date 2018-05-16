@@ -76,3 +76,29 @@ li {
 #storyboard1 {
 	width: 70%;
 }
+
+.image {
+	width: 50vw;
+
+	transform: scale(0.6)rotate(90deg) translateY(20vw);
+}
+
+.floating-menu {
+	font-family: sans-serif;
+	background: blue;
+	padding: 5px;
+	width: 170px;
+	z-index: 100;
+	position: fixed;
+	left: 1vw;
+	top: 10vw;
+}
+
+.floating-menu a,
+.floating-menu h3 {
+	font-size: 0.9em;
+	display: block;
+	margin: 0 0.5em;
+	color: white;
+	font-family: 'Titan One', cursive;
+}
