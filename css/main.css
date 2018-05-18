@@ -9,7 +9,7 @@ html {
 body {
 	max-width: 1200px;
 	margin: 0 auto;
-	background-color: darkgray;
+	background-color: azure;
 }
 
 /* Navigation */
@@ -92,6 +92,7 @@ li {
 	position: fixed;
 	left: 1vw;
 	top: 10vw;
+	border-radius: 25px;
 }
 
 .floating-menu a,
